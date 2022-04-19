@@ -1,0 +1,1 @@
+Sucess work on Linux Mint Una 20.3 (5.14.0-1032-oem) with pipewie from ppa pipewire (Compiled with libpipewire 0.3.50, Linked with libpipewire 0.3.50). I use only 44kHz (i'm too lazy for finding settings 48kHz).
